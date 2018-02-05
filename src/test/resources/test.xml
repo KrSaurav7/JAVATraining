@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My Test Suite" verbose="1" >
+    <test name="Hello World" >
+        <parameter name="expected" value="Hello World!"/>
+        <parameter name="basicExpeted" value="Basic Hello World!"/>
+        <classes>
+            <class name="com.epam.testng.BasicHelloWorldTest"/>
+            <class name="com.epam.testng.HelloWorldTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="MavenProject(failed)">
+    <classes>
+      <class name="com.wipro.webdriver.tests.RegistrationAndAddToCart">
+        <methods>
+          <include name="stopBrowserTest"/>
+          <include name="addProductToTheWishListTest"/>
+          <include name="navigateToHomePageTest"/>
+          <include name="startBrowserTest"/>
+          <include name="proceedForRegistrationTest"/>
+          <include name="setNewUserDetailsTest"/>
+          <include name="navigateToCommingSoonProductTest"/>
+          <include name="addProductToTheCartTest"/>
+          <include name="removeProductFromWishListTest"/>
+        </methods>
+      </class> <!-- com.wipro.webdriver.tests.RegistrationAndAddToCart -->
+    </classes>
+  </test> <!-- MavenProject(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

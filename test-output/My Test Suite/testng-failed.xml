@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [My Test Suite]">
+  <test name="Practice Tests(failed)" parallel="classes">
+    <classes>
+      <class name="com.wipro.webdriver.tests.SendEmailAndVerify">
+        <methods>
+          <include name="startBrowserTest"/>
+          <include name="stopBrowserTest"/>
+          <include name="composeANewEmailAndSendTest"/>
+          <include name="searchAndDeleteEmailTest"/>
+          <include name="loginToOutlookTest"/>
+        </methods>
+      </class> <!-- com.wipro.webdriver.tests.SendEmailAndVerify -->
+    </classes>
+  </test> <!-- Practice Tests(failed) -->
+</suite> <!-- Failed suite [My Test Suite] -->

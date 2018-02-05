@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OpenCart Suite]">
+  <test name="OpenCart Tests(failed)">
+    <classes>
+      <class name="com.wipro.webdriver.tests.OrderHistory">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="navigateToHomePageTest"/>
+          <include name="startBrowserTest"/>
+          <include name="confirmOrderAndVerifyTest"/>
+          <include name="verifyOrderInOrderHistoryTest"/>
+          <include name="loginToOpenCartTest"/>
+          <include name="addProductUpdateQtyAndVerifyQtyInCartTest"/>
+          <include name="proceedForCheckoutTest"/>
+          <include name="selectFirstFeatureProductAndVerifyTheSameInPDPTest"/>
+        </methods>
+      </class> <!-- com.wipro.webdriver.tests.OrderHistory -->
+      <class name="com.wipro.webdriver.tests.RegistrationAndAddToCart">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="stopBrowserTest"/>
+          <include name="getResult"/>
+          <include name="startBrowserTest"/>
+          <include name="initializeExtentReport"/>
+        </methods>
+      </class> <!-- com.wipro.webdriver.tests.RegistrationAndAddToCart -->
+    </classes>
+  </test> <!-- OpenCart Tests(failed) -->
+</suite> <!-- Failed suite [OpenCart Suite] -->
