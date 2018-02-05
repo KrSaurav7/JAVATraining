@@ -34,7 +34,7 @@ public class Constants {
     public static final String MessageSubject = "Subject for the mail";
     public static final String MessageBody = "Message to be sent to verify it has been sent successfully or not";
     public static final int NO_OF_EXEC = 1;
-    public static final int WAIT_TIME = 10;
+    public static final int WAIT_TIME = 12;
 
 
     public static String getRandomEmail(String firstName,String lastName){
