@@ -55,7 +55,7 @@
             <version>2.20.1</version>
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>testng.xml</suiteXmlFile>
+                    <suiteXmlFile>OpenCartTest.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>

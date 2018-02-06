@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d58f427-755b-4646-bcc2-08104ae276c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/wipro/webdriver/utils/Constants.class" afterPath="$PROJECT_DIR$/target/classes/com/wipro/webdriver/utils/Constants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/ExtentReportBaseClass.class" afterPath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/ExtentReportBaseClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/OrderHistory.class" afterPath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/OrderHistory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/RegistrationAndAddToCart.class" afterPath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/RegistrationAndAddToCart.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/SendEmailAndVerify.class" afterPath="$PROJECT_DIR$/target/test-classes/com/wipro/webdriver/tests/SendEmailAndVerify.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OpenCartExtentReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/OutlookExtentReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/STMExtentReport.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExtentReport.html" afterPath="$PROJECT_DIR$/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logging/logfile/testreport.log" afterPath="$PROJECT_DIR$/logging/logfile/testreport.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/wipro/webdriver/utils/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/com/wipro/webdriver/utils/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/OpenCartTest.xml" afterPath="$PROJECT_DIR$/src/test/resources/OpenCartTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/OpenCartTest.xml" afterPath="$PROJECT_DIR$/target/test-classes/OpenCartTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/OpenCart Suite/OpenCart Tests.html" afterPath="$PROJECT_DIR$/test-output/OpenCart Suite/OpenCart Tests.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/OpenCart Suite/OpenCart Tests.xml" afterPath="$PROJECT_DIR$/test-output/OpenCart Suite/OpenCart Tests.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/OpenCart Suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/OpenCart Suite/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.wipro.webdriver.tests.OrderHistory.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.wipro.webdriver.tests.OrderHistory.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.wipro.webdriver.tests.RegistrationAndAddToCart.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.wipro.webdriver.tests.RegistrationAndAddToCart.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/OpenCart Suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/OpenCart Suite/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/OpenCart Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/OpenCart Suite/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/OpenCart Suite/methods-not-run.html" afterPath="$PROJECT_DIR$/test-output/old/OpenCart Suite/methods-not-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/OpenCart Suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/OpenCart Suite/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/OpenCart Suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/OpenCart Suite/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/OpenCart Suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/OpenCart Suite/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,28 +25,28 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+            <state relative-caret-position="203">
+              <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenCartTest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OpenCartTest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/OpenCartTest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wipro/webdriver/utils/Constants.java">
+      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+            <state relative-caret-position="119">
+              <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -151,8 +128,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/wipro/webdriver/tests/ExtentReportBaseClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wipro/webdriver/tests/OrderHistory.java" />
         <option value="$PROJECT_DIR$/src/test/resources/OpenCartTest.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/wipro/webdriver/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -202,31 +179,14 @@
               <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVATraing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVATraing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVATraing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVATraing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -959,13 +919,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/Configuration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1135,29 +1088,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/OpenCartTest.xml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wipro/webdriver/utils/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        <state relative-caret-position="203">
+          <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wipro/webdriver/utils/Constants.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        <state relative-caret-position="119">
+          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/OpenCartTest.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
