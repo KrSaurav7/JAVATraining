@@ -4,7 +4,6 @@
     <test name="OpenCart Tests" >
         <classes>
             <class name="com.wipro.webdriver.tests.RegistrationAndAddToCart" />
-            <class name="com.wipro.webdriver.tests.OrderHistory" />
         </classes>
     </test>
 
