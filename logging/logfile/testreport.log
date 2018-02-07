@@ -1,13 +1,13 @@
-2018-33-06 18:33:01.577 [main] INFO   - Test Execution Started For OpenCart Test
-2018-33-06 18:33:05.233 [main] INFO   - Successfully Launched OpenCart Application
-2018-33-06 18:33:09.451 [main] INFO   - Clicked on lnkCreateAnAccount in order to create new account 
-2018-33-06 18:33:09.455 [main] INFO   - User has successfully navigated to the Registration page
-2018-33-06 18:33:16.293 [main] INFO   - Email for new user : autotest1517922196293@wipro.com
-2018-33-06 18:33:25.568 [main] INFO   - User Has been created successfully
-2018-33-06 18:33:25.834 [main] INFO   - New User has been successfully created for Open cart
-2018-33-06 18:33:30.442 [main] INFO   - User has been successfully navigated to the home page
-2018-33-06 18:33:39.436 [main] INFO   - User has been successfully navigated to auto populated adv. product details page
-2018-33-06 18:33:46.469 [main] INFO   - Product is successfully added to the wish list
-2018-33-06 18:33:53.201 [main] INFO   - Successfully converted the price to Pound and added item to the cart
-2018-34-06 18:34:01.311 [main] INFO   - Successfully removed the product from wish list 
-2018-34-06 18:34:05.036 [main] INFO   - Execution completed for Open Cart test hence logging out from the application
+2018-31-07 11:31:57.288 [main] INFO   - Test Execution Started For OpenCart Test
+2018-32-07 11:32:04.065 [main] INFO   - Successfully Launched OpenCart Application
+2018-32-07 11:32:09.619 [main] INFO   - Clicked on lnkCreateAnAccount in order to create new account 
+2018-32-07 11:32:09.625 [main] INFO   - User has successfully navigated to the Registration page
+2018-32-07 11:32:16.656 [main] INFO   - Email for new user : autotest1517983336656@wipro.com
+2018-32-07 11:32:25.686 [main] INFO   - User Has been created successfully
+2018-32-07 11:32:25.795 [main] INFO   - New User has been successfully created for Open cart
+2018-32-07 11:32:29.744 [main] INFO   - User has been successfully navigated to the home page
+2018-32-07 11:32:38.471 [main] INFO   - User has been successfully navigated to auto populated adv. product details page
+2018-32-07 11:32:45.245 [main] INFO   - Product is successfully added to the wish list
+2018-32-07 11:32:52.698 [main] INFO   - Successfully converted the price to Pound and added item to the cart
+2018-33-07 11:33:00.101 [main] INFO   - Successfully removed the product from wish list 
+2018-33-07 11:33:05.553 [main] INFO   - Execution completed for Open Cart test hence logging out from the application
